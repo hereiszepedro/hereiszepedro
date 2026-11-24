@@ -41,3 +41,6 @@ in private repositories, so here is what it covers.
 - Infra: Docker/Compose, Nginx, Gunicorn, Linux (VPS), Vercel, GitHub Actions
 - Industrial: Schneider Modicon M221, Harmony HMI, Modbus serial
 - Other: ESP32/Arduino, Swift (SwiftUI), Luau, CadQuery
+
+### Open source
+- [home-assistant/core#193698](https://github.com/home-assistant/core/pull/193698): Modbus, make the `hub` field of the `stop` action optional
